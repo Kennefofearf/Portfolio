@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Kenneth Peterson's ePortfolio!
 
-You can use the [editor on GitHub](https://github.com/kennethpeterson1/kennethpeterson1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Intro
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[To the first artifact](kennethpeterson1.github.io/SoftwareEngineeringArtifact.md)
 
 ### Markdown
 
