@@ -5,6 +5,6 @@ The artifact will have a place in my ePortfolio due to how it showcases my curre
 This made possible by first creating a ListAppender to store the log messages that will come up when the unit test is run. Then using log.info(), log messages were placed in each function in ContactServiceTest.java stating when the function has started and when it has finished. The call: log.info(), allows the application to display log messages where ever the call is placed.  In addition to this each time the testCreate() test is run it will also display all of the entered info the contact with the rest of the logger's output. 
 The enhancement for the first artifact was completed successfully and the application runs as planned. This enhancement has educated me on configuring IDEs, as I had to add Logback to the list of dependencies in the project. This showed how different parts of the project communicate with each other and helped me to better understand how IDEs work and compile code. Another factor in the implementation of Logback is how they are formatted using an XML file. It shows how the log message will be formatted and can even be edited through the XML file itself. 
 
-[Artifact One Code](https://github.com/kennethpeterson1/kennethpeterson1.github.io/tree/main/ContactServiceEnhanced/ContactService)
-[To Second Artifact](DATASTRUCTUREARTIFACT.md)
+[Artifact One Code](https://github.com/kennethpeterson1/kennethpeterson1.github.io/tree/main/ContactServiceEnhanced/ContactService)  
+[To Second Artifact](DATASTRUCTUREARTIFACT.md)  
 [Home](README.md)
