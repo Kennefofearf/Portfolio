@@ -2,7 +2,7 @@
 
 # Intro
 
-[To the first artifact](kennethpeterson1.github.io/SoftwareEngineeringArtifact.md)
+[To the first artifact](SoftwareEngineeringArtifact.md)
 
 ### Markdown
 
