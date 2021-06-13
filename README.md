@@ -2,36 +2,15 @@
 
 # Intro
 
+Throughout the Computer Science program at Southern New Hampshire University my technical knowledge has expanded exponentially. What I consider to be the most important lessons I have I learned are contained inside of this ePortfolio. I have had valuable lessons in team environments, communicating to stakeholders, software engineering, data structures, algorithms, and databases. These skills have helped me grow as a professional and programmer.
+	I have learned about working in a team environment through code reviews from peers and source control. By taking valuable feedback from your peers, you can learn more efficient ways to code and break bad habits such as using too white space or not commenting enough. Source control helps as well with learning how your code will integrate in with your peer's on a master branch. Code reviews are what keeps faulty code from pushed to master branches, thus making the said reviews an important part of teamwork and due diligence.
+	Communicating to stakeholders is important as well. I have learned that it is very important to understand the goals of any project. This means to knowing why the project exists and how the goal can be reached. Constant communication with clients is important as well as plenty of testing. Showing clients the plan for the program is also important as can be easily represented through UML diagrams. These diagrams not only help developers visual the project they will be building but it also assists in the stakeholder's perception as well.
+	Through code my software engineering, data structures, algorithms, and databases were all implemented on a single Contact Service project that lets the user enter the contact ID, first name, last name, phone number, and address of a contact they want to add to the service. At first the project will just have Unit Testing and no persistent storage. This will be imrpoved using the artifacts listed above and will become a real program for saving contact data.
+	For the software engineering artifact a logger was added to the Contact Service project's JUnit Tests. The logger was implemented using Logback and it adds logger messages to the JUnit Tests as they run. The messages will be displayed in the output on the console as well as showing all of the contact info that was entered by the user. This helps to show the flow of the application whenever it's executed and can also help with debugging by finding abnormalities in the log messages. For example: it may show the logger message that the createContact() function has started but no message that the function that stopped running. This would mean that there would be a memory leak or endless loop involved in the createContact() function.
+	Data Structures and Algorithms go together in this second artifact which uses the same functions as the software engineering artifact. This was the biggest overhaul to the program out of all of the artifacts as it drops the Unit Tests but adds the entered contacts into a hash tree which sorts them in alphabetical order by first name. The choice to drop the Unit Tests has been done as the program uses actual user input now instead of the hard coded values that the JUnit Tests originally used.
+	The final artifact, databases, implements mySQL into Contact Service and adds persistent storage for the entered contacts. Using a JSON parser the program will take the entered contact information and convert it into JSON format before adding the document to the database. Using the SQL workbench the entered contact information for all sessions of the program can then be queried.
+	By implementing the above features into a program that originally started as a JUnit Test application, has been transformed into a real app for storing contact information. The knowledge from these artifacts has helped to with a couple other projects involving my other interest of developing iOS applications. By understanding how Unit Tests, data structures, and databases work, I can use this knowledge and apply it to any future programming projects that I may encounter.
+
 [To the first artifact](SOFTWAREENGINEERINGARTIFACT.md)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kennethpeterson1/kennethpeterson1.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
