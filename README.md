@@ -11,6 +11,6 @@ Throughout the Computer Science program at Southern New Hampshire University my 
 	The final artifact, databases, implements mySQL into Contact Service and adds persistent storage for the entered contacts. Using a JSON parser the program will take the entered contact information and convert it into JSON format before adding the document to the database. Using the SQL workbench the entered contact information for all sessions of the program can then be queried.
 	By implementing the above features into a program that originally started as a JUnit Test application, has been transformed into a real app for storing contact information. The knowledge from these artifacts has helped to with a couple other projects involving my other interest of developing iOS applications. By understanding how Unit Tests, data structures, and databases work, I can use this knowledge and apply it to any future programming projects that I may encounter.
 
-[To the first artifact](SOFTWAREENGINEERINGARTIFACT.md)
+[To the code review](CODEREVIEW.md)
 
 
