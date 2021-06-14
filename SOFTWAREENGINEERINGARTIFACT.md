@@ -6,7 +6,7 @@ This made possible by first creating a ListAppender to store the log messages th
 The enhancement for the first artifact was completed successfully and the application runs as planned. This enhancement has educated me on configuring IDEs, as I had to add Logback to the list of dependencies in the project. This showed how different parts of the project communicate with each other and helped me to better understand how IDEs work and compile code. Another factor in the implementation of Logback is how they are formatted using an XML file. It shows how the log message will be formatted and can even be edited through the XML file itself. 
 
 [Artifact One Code](https://github.com/kennethpeterson1/kennethpeterson1.github.io/tree/main/ContactServiceEnhanced/ContactService)  
-[To the second artifact](DATASTRUCTUREARTIFACT.md)  
-[To the third artifact](DATABASE.md)
-[To the code review](CODEREVIEW.md)
+[To the second artifact](DATASTRUCTUREARTIFACT.md)    
+[To the third artifact](DATABASE.md)  
+[To the code review](CODEREVIEW.md)  
 [Home](README.md)
