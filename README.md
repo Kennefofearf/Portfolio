@@ -9,8 +9,12 @@ Throughout the Computer Science program at Southern New Hampshire University my 
 	For the software engineering artifact a logger was added to the Contact Service project's JUnit Tests. The logger was implemented using Logback and it adds logger messages to the JUnit Tests as they run. The messages will be displayed in the output on the console as well as showing all of the contact info that was entered by the user. This helps to show the flow of the application whenever it's executed and can also help with debugging by finding abnormalities in the log messages. For example: it may show the logger message that the createContact() function has started but no message that the function that stopped running. This would mean that there would be a memory leak or endless loop involved in the createContact() function.
 	Data Structures and Algorithms go together in this second artifact which uses the same functions as the software engineering artifact. This was the biggest overhaul to the program out of all of the artifacts as it drops the Unit Tests but adds the entered contacts into a hash tree which sorts them in alphabetical order by first name. The choice to drop the Unit Tests has been done as the program uses actual user input now instead of the hard coded values that the JUnit Tests originally used.
 	The final artifact, databases, implements mySQL into Contact Service and adds persistent storage for the entered contacts. Using a JSON parser the program will take the entered contact information and convert it into JSON format before adding the document to the database. Using the SQL workbench the entered contact information for all sessions of the program can then be queried.
-	By implementing the above features into a program that originally started as a JUnit Test application, has been transformed into a real app for storing contact information. The knowledge from these artifacts has helped to with a couple other projects involving my other interest of developing iOS applications. By understanding how Unit Tests, data structures, and databases work, I can use this knowledge and apply it to any future programming projects that I may encounter.
+	By implementing the above features into a program that originally started as a JUnit Test application, has been transformed into a real app for storing contact information. The knowledge from these artifacts has helped to with a couple other projects involving my other interest of developing iOS applications. By understanding how Unit Tests, data structures, and databases work, I can use this knowledge and apply it to any future programming projects that I may encounter.  
 
-[To the code review](CODEREVIEW.md)
+[To the first artifact](SOFTWAREENGINEERINGARTIFACT.md)  
+[To the second artifact](DATASTRUCTUREARTIFACT.md)    
+[To the third artifact](DATABASEARTIFACT.md)  
+[To the code review](CODEREVIEW.md)  
+
 
 
