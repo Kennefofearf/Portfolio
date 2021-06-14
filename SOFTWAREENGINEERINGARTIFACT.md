@@ -7,6 +7,6 @@ The enhancement for the first artifact was completed successfully and the applic
 
 [Artifact One Code](https://github.com/kennethpeterson1/kennethpeterson1.github.io/tree/main/ContactServiceEnhanced/ContactService)  
 [To the second artifact](DATASTRUCTUREARTIFACT.md)    
-[To the third artifact](DATABASE.md)  
+[To the third artifact](DATABASEARTIFACT.md)  
 [To the code review](CODEREVIEW.md)  
 [Home](README.md)
