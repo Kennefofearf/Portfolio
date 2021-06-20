@@ -1,5 +1,7 @@
 ## Code Review
 
+[Link to the Code Review](https://youtu.be/EU1MXq0AWIo)  
+
 [To the first artifact](SOFTWAREENGINEERINGARTIFACT.md)  
 [To the second artifact](DATASTRUCTUREARTIFACT.md)    
 [To the third artifact](DATABASEARTIFACT.md)  
